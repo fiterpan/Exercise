@@ -1,4 +1,4 @@
-// Exercise- Swapping Variables
+// Exercise-Swapping-Variables
 let a = 'red';
 let b = 'blue';
 
